@@ -147,7 +147,7 @@
           >
             <span class="absolute left-0 inset-y-0 flex items-center pl-3">
             </span>
-            Sign in
+            Sign in 
           </button>
         </div>
       </form>
