@@ -1,0 +1,22 @@
+{
+    "jobs": [
+        {
+            "title": "Developer",
+            "loc": "noida",
+            "detail": "javascript , vue",
+            "id": "1"
+        },
+        {
+            "title": "Content writer",
+            "loc": "Delhi",
+            "detail": "html,css",
+            "id": "2"
+        },
+        {
+            "title": "HR",
+            "loc": "gurugram",
+            "detail": "manpower management",
+            "id": "3"
+        }
+    ]
+}
